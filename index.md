@@ -1,11 +1,24 @@
 ---
-layout: home
-title: "Welcome to the Emery Lab"
+layout: splash
+title: "The BAD Lab"
 permalink: /
+
+header:
+  overlay_color: "#006b54" # Binghamton Green overlay
+  overlay_filter: "0.4"     # nice light transparency
+  overlay_image: /assets/images/nile_valley_banner.jpg  # Upload your banner here
+
+excerpt: "Exploring ancient human migration, ancestry, and health through genomics at Binghamton University."
+actions:
+  - label: "Meet the Lab"
+    url: "/about/"
+  - label: "Our Research"
+    url: "/research/"
 ---
 
-# Emery Lab
+# Welcome to the BAD Lab
 
-We study ancient DNA, isotopic analysis, and migration history in the Nile Valley.
+At the BAD Lab, we uncover the ancient past using ancient DNA (aDNA), isotope analysis, and bioarchaeology.  
+Our research spans the Nile Valley, the Mediterranean, and beyond — decoding migration, health, and ancestry through molecular science.
 
-Explore our [Research](research.md), meet the [Team](about.md), and check out [Publications](publications.md).
+**Learn more about how ancient molecules tell ancient stories.**
