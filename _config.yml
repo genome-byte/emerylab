@@ -1,7 +1,6 @@
-title: "Emery Lab"
-description: "Migration, ancestry, and health in the Nile Valley using isotopic and genomic approaches."
-
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # <--- pin a stable, Pages-compatible version!
+title: "BAD Lab"
+description: "The Binghamton Ancient DNA Lab — Exploring the Past Through Genomics and Archaeology."
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-remote-theme
@@ -11,8 +10,31 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+minimal_mistakes_skin: "dark"  # Dark professional color scheme (you'll see!)
+
 header_pages:
   - about.md
   - research.md
   - publications.md
   - join.md
+
+author:
+  name: "BAD Lab"
+  avatar: "/assets/images/badlab_logo.png"  # upload your lab logo later
+  bio: "The Binghamton Ancient DNA Lab investigates human migrations, ancestry, and health using ancient genomics and isotope analysis."
+
+# Social media links
+social:
+  links:
+    - label: "ORCID"
+      icon: "fas fa-id-badge"
+      url: "https://orcid.org/your-orcid-id"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=your-profile-id"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:yourname@binghamton.edu"
+
+# SEO
+google_site_verification: ""
