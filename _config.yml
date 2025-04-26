@@ -1,5 +1,5 @@
 title: "The Binghamton Ancient DNA Lab (The BAD Lab)"
-description: "The Binghamton Ancient DNA Lab — Exploring the Past Through Cutting-Edge Biomolecular Archaeology and Genomics."
+description: "The Binghamton Ancient DNA Lab — Exploring the Past Through Genomics and Archaeology."
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "dark"  # Dark professional color scheme (you'll see!)
+minimal_mistakes_skin: "air"  # Light skin, white background, green accents we'll add!
 
 header_pages:
   - about.md
@@ -20,10 +20,10 @@ header_pages:
 
 author:
   name: "BAD Lab"
-  avatar: "/assets/images/badlab_logo.png"  # upload your lab logo later
-  bio: "The Binghamton Ancient DNA Lab investigates human migrations, ancestry, and health using ancient genomics and isotope analysis."
+  avatar: "/assets/images/badlab_logo.png"  # upload a simple BAD Lab logo if you have one
+  bio: "The Binghamton Ancient DNA Lab investigates human migrations, ancestry, and health using ancient genomics and isotopic science."
 
-# Social media links
+# Social media
 social:
   links:
     - label: "ORCID"
