@@ -1,6 +1,7 @@
 title: "Emery Lab"
 description: "Migration, ancestry, and health in the Nile Valley using isotopic and genomic approaches."
 remote_theme: "mmistakes/minimal-mistakes"
+
 header_pages:
   - about.md
   - research.md
