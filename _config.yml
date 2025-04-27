@@ -20,6 +20,7 @@ header_pages:
 
 author:
   name: "BAD Lab"
+  avatar: "/assets/images/badlab_logo.png"  # This adds it to the header!
   bio: "The Binghamton Ancient DNA Lab investigates human migrations, ancestry, and health using ancient genomics and isotopic science."
 
 # Social media
