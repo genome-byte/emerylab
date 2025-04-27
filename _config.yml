@@ -1,5 +1,4 @@
-title: "The Binghamton Ancient DNA Lab (The BAD Lab)"
-avatar: "/assets/images/badlab_logo.png"  
+title: "<img src='/assets/images/badlab_logo.png' style='height:40px; vertical-align: middle;'> The BAD Lab"
 description: "The Binghamton Ancient DNA Lab — Exploring the Past Through Genomics and Archaeology."
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
