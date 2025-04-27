@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "The BAD Lab"
+title: "The Binghamton Ancient DNA Lab"
 permalink: /
 
 header:
@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Welcome to the BAD Lab
+# Welcome!!!
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
 
@@ -37,7 +37,7 @@ Our research spans the Nile Valley, the Mediterranean, and beyond — decoding m
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-<img src="/assets/images/img_3285.jpg" alt="BAD Lab Fieldwork" style="width:100%; max-width:300px; border-radius:10px;">
+<img src="/assets/images/img_3285.jpg" style="width:100%; max-width:300px; border-radius:10px;">
 </div>
 
 </div>
