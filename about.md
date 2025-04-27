@@ -4,17 +4,23 @@ title: "About the BAD Lab"
 permalink: /about/
 ---
 
-# Meet the BAD Lab
+# About the BAD Lab
 
-The Binghamton Ancient DNA Lab (BAD Lab) investigates human migration, ancestry, and health in past populations through the application of ancient DNA (aDNA) and stable isotope science.
+At the Binghamton Ancient DNA Lab (BAD Lab), we explore humanity's deep past through the powerful combination of ancient DNA (aDNA), stable isotope analysis, and archaeological science.  
+Our research bridges molecular biology, anthropology, and archaeology to answer fundamental questions about migration, ancestry, health, and adaptation.
 
-Our team includes researchers from biological anthropology, archaeology, molecular biology, and computational genomics, working together to uncover the genetic histories of ancient peoples.
+The BAD Lab specializes in the ancient populations of the Nile Valley, the Mediterranean, and surrounding regions — investigating how people moved, mixed, and lived across dynamic landscapes.
 
 ### Lab Director
-- [Your Name], Ph.D. — Assistant Professor, Department of Anthropology, Binghamton University
+- **Dr. Matthew Emery**, Assistant Professor of Anthropology, Binghamton University
+
+### Our Values
+- Scientific rigor
+- Ethical research practices
+- Interdisciplinary collaboration
+- Mentorship and training for the next generation of biomolecular archaeologists
 
 ### Lab Members
-- [List graduate students, postdocs, undergraduates as you grow]
+- Graduate students, undergraduate researchers, and visiting scholars work together on cutting-edge projects across the fields of paleogenomics, isotopic ecology, and ancient biomolecules.
 
----
-
+**[Interested in joining the lab? Click here →](/join/)**
