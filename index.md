@@ -34,11 +34,6 @@ Our research spans the Nile Valley, the Mediterranean, and beyond — decoding m
 
 **Learn more about how ancient molecules tell ancient stories.**
 
-</div>
+![BAD Lab Fieldwork](/assets/images/IMG_3285.JPG)
 
-<div style="flex: 1; min-width: 200px;">
-<img src="/assets/images/img_3285.jpg" style="width:100%; max-width:300px; border-radius:10px;">
-</div>
-
-</div>
 
