@@ -22,9 +22,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Welcome!!!
+# Welcome to the BAD Lab
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-top: 20px;">
 
 <div style="flex: 2; padding-right: 20px; min-width: 250px;">
 
@@ -34,6 +34,10 @@ Our research spans the Nile Valley, the Mediterranean, and beyond — decoding m
 
 **Learn more about how ancient molecules tell ancient stories.**
 
-![BAD Lab Fieldwork](/assets/images/IMG_3285.JPG)
+</div>
 
+<div style="flex: 1; min-width: 200px;">
+<img src="/assets/images/IMG_3285.JPG" alt="BAD Lab Fieldwork" style="width:100%; max-width:300px; border-radius:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+</div>
 
+</div>
