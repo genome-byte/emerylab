@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Welcome to the BAD Lab
+# Welcome!!!
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-top: 20px;">
 
