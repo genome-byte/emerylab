@@ -2,13 +2,12 @@
 layout: splash
 title: "The BAD Lab"
 permalink: /
-
 header:
   overlay_color: "#006b54"
   overlay_filter: "0.4"
   overlay_image: /assets/images/nile_valley_banner.jpg
+  show_overlay_nav: true
 excerpt: "Exploring ancient human migration, ancestry, and health through genomics at Binghamton University."
-
 feature_row:
   - title: "Meet the Lab"
     excerpt: "Learn about the team behind the BAD Lab."
@@ -16,9 +15,9 @@ feature_row:
     btn_label: "About Us"
     btn_class: "btn--primary"
   - title: "Our Research"
-    excerpt: "Explore our ongoing projects in paleogenomics and isotopic analysis."
+    excerpt: "Explore our projects in ancient genomics and isotopic science."
     url: "/research/"
-    btn_label: "Our Research"
+    btn_label: "Research"
     btn_class: "btn--primary"
 ---
 
