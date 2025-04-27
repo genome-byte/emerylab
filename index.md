@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#006b54"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/nile_valley_banner.jpg
+  overlay_image: /assets/images/bad_lab.png
   show_overlay_nav: true
 excerpt: "Exploring ancient human migration, ancestry, and health through genomics at Binghamton University."
 feature_row:
