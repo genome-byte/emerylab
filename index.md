@@ -37,7 +37,7 @@ Our research spans the Nile Valley, the Mediterranean, and beyond — decoding m
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-<img src="/assets/images/IMG_3285.JPG" alt="BAD Lab Fieldwork" style="width:100%; max-width:300px; border-radius:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+<img src="assets/images/IMG_3285.JPG" alt="BAD Lab Fieldwork" style="width:100%; max-width:300px; border-radius:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
 </div>
 
 </div>
