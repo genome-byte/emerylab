@@ -4,8 +4,6 @@ title: "Join the BAD Lab"
 permalink: /join/
 ---
 
-# Join the BAD Lab
-
 We are currently seeking motivated students, postdoctoral researchers, and collaborators interested in ancient DNA, paleogenomics, stable isotope analysis, and archaeological science.
 
 ### Opportunities for Students
