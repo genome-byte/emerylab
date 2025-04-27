@@ -1,11 +1,20 @@
 ---
-layout: page
-title: "About"
+layout: single
+title: "About the BAD Lab"
 permalink: /about/
 ---
 
-# About Our Lab
+# Meet the BAD Lab
 
-The Emery Lab focuses on the study of ancient human migrations and diversity using isotopic and ancient DNA methods.
+The Binghamton Ancient DNA Lab (BAD Lab) investigates human migration, ancestry, and health in past populations through the application of ancient DNA (aDNA) and stable isotope science.
 
-We work primarily in Sudan, Italy, Bulgaria, and East Africa.
+Our team includes researchers from biological anthropology, archaeology, molecular biology, and computational genomics, working together to uncover the genetic histories of ancient peoples.
+
+### Lab Director
+- [Your Name], Ph.D. — Assistant Professor, Department of Anthropology, Binghamton University
+
+### Lab Members
+- [List graduate students, postdocs, undergraduates as you grow]
+
+---
+
